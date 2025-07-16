@@ -352,7 +352,7 @@
     </div>
 
     <script>
-        const webhookUrl = 'https://n8n.srv781279.hstgr.cloud/webhook/37342d5csf-97853-4246-862f-1390f7ebd464/chat';
+        const webhookUrl = 'https://n8n.srv773091.hstgr.cloud/webhook/8cb03d90-07d0-465c-bbed-c36473059e80/chat';
         
         function handleKeyPress(event) {
             if (event.key === 'Enter') {
